@@ -4,4 +4,5 @@
  */
 public class SS {
     private String a;
+    private String name;
 }
